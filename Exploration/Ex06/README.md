@@ -1,5 +1,5 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 나영진
+- 코더 : 나영진
 - 리뷰어 : 정상헌
 
 
